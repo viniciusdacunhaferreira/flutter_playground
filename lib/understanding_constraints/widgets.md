@@ -1,6 +1,7 @@
 Widgets used in the examples
 
 - Container
+- SizedBox
 - Center
 - Align
 - ConstrainedBox
@@ -9,3 +10,6 @@ Widgets used in the examples
 - LimitedBox
 - FittedBox
 - Row
+- Column
+- Expanded
+- Flexible
